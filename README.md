@@ -14,7 +14,7 @@ Set-up your virtual hosts by editing /etc/hosts file:
 ## install and launch the server
 
 ```
-$ git clone /projects
+$ git clone https://github.com/rdhox/domains-and-subdomains-node-server.git projects/
 $ cd projects
 $ npm install
 $ node server.js
