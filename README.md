@@ -20,4 +20,4 @@ $ npm install
 $ node server.js
 ```
 
-Open your browser and try one of the url you configured on your hosts file.
+Open your browser and try one of the url you configured in your hosts file.
